@@ -48,7 +48,7 @@ Zapier Zap 1: screenshots/zapier-notify-manager.png
 🚀 How to Run
 
 Clone the Repository:
-git clone https://github.com/[your-username]/employee-time-off-automation.git
+git clone https://github.com/chaisoman/employee-time-off-automation.git
 
 
 Set Up Airtable:
@@ -92,5 +92,7 @@ Technical Documentation: Detailed setup guide.
 Airtable Support: For database setup.
 Zapier Help: For automation troubleshooting.
 
-Built by Gershom Torkuma Sylvester, September 2025# Employee-Time-Off-Automation
+Built by Gershom Torkuma Sylvester, 
+September 2025
+# Employee-Time-Off-Automation
 Automated employee time-off management system using Airtable and Zapier.
