@@ -28,7 +28,6 @@ Form: Configured a form in Leave Requests for employees to submit requests.
 Fix: Resolved Manager Email not populating by correcting the Lookup field (Employee → Manager → Email).
 
 Zapier
-
 Five Zaps automate the workflow:
 Notify Manager: Triggers on new Leave Requests record → Sends email with request details and webhook links.
 Approve Request: Webhook → Updates Status to Approved, deducts PTO Balance.
@@ -71,7 +70,7 @@ Verify manager email, approve/reject actions, employee notification, and balance
 
 
 🎥 Demo
-[Demo Video: Placeholder – upload to YouTube/Google Drive]
+https://www.loom.com/share/5fbab44f664f45b8b4512e96c84b89e0
 🧩 Challenges and Solutions
 
 Challenge: Manager Email field not populating.
