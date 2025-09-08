@@ -71,15 +71,14 @@ Verify manager email, approve/reject actions, employee notification, and balance
 
 🎥 Demo
 https://www.loom.com/share/5fbab44f664f45b8b4512e96c84b89e0
-🧩 Challenges and Solutions
 
+🧩 Challenges and Solutions
 Challenge: Manager Email field not populating.
 Solution: Fixed Lookup field in Airtable and ensured valid manager links in Employees table.
 Challenge: Zapier free plan task limits (100/month).
 Solution: Optimized testing to stay within limits.
 
 🔮 Future Improvements
-
 Sync approved requests to Google Calendar.
 Add leave types (e.g., Sick, Vacation) for better tracking.
 Create a manager dashboard with Airtable Interfaces.
